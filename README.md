@@ -19,3 +19,4 @@ external_components:
     components: [ hp303b ]
 ```
 
+This component is maintained by [shish](https://github.com/shish/esphome-projects/tree/master/components/hp303b), this is a mirror.
